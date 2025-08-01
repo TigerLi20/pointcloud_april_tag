@@ -6,7 +6,7 @@ pip install open3d numpy pillow scipy matplotlib pyyaml opencv-python pupil-apri
 
 python /Users/tigerli/Downloads/step1.py
 python /Users/tigerli/Downloads/step1_2.py
-python /Users/tigerli/Downloads/step123.py 
+python /Users/tigerli/Downloads/pointcloud_april_tag/step123.py 
 python /Users/tigerli/Downloads/steps123cp.py 
 python /Users/tigerli/Downloads/merged_pointclouds_per_frame.py 
 python /Users/tigerli/Downloads/combine123.py 
